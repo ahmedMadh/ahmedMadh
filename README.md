@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=210&section=header&text=Ahmed%20Al%20Madhoun&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineering+Student;Machine+Learning+%7C+Edge+AI+%7C+TinyML;Building+Intelligent+Systems+at+the+Edge" alt="Typing Animation"/>
+<a href="https://github.com/ahmedMadh">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineering+Student;Machine+Learning+%7C+Edge+AI;Building+Intelligent+Systems+at+the+Edge" alt="Typing Animation"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ahmedMadh&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 <h3>About Me</h3>
 
 <p>
-  Passionate about <strong>Machine Learning</strong>, <strong>Edge AI</strong>, and <strong>TinyML</strong>.<br>
+  Passionate about <strong>Machine Learning</strong>, and <strong>Edge AI</strong>.<br>
   Exploring Computer Vision and intelligent IoT systems.<br>
   Focused on building efficient, practical, and impactful AI solutions.
 </p>
@@ -39,9 +39,6 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI Frameworks"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=arduino,linux" alt="Embedded Tools"/>
     </td>
   </tr>
   <tr>
