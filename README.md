@@ -18,7 +18,6 @@
 <br>
 <div align="center">
 <h2>⚡ Tech Stack</h2>
-<br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,git,tensorflow,pytorch,arduino&theme=dark&perline=6" />
 <br/><br/>
 <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=38bdf8"/>&nbsp;
@@ -28,7 +27,7 @@
 </div>
 <br>
 <div align="center">
-<h3>{ Connect }</h3>
+<h3> Connect </h3>
 <br/>
 <a href="https://www.linkedin.com/in/ahmed-almadhoun-17b4ba408/">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
