@@ -87,24 +87,7 @@
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170" alt="Contribution Streak"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<h3>Connect With Me</h3>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
-</a>
-
-<br><br><br>
+<br><br>
 
 <em>“Intelligence at the edge. Impact in the real world.”</em>
 
