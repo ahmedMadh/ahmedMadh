@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineering+Student;Machine+Learning+%7C+Edge+AI;Building+Intelligent+Systems+at+the+Edge" alt="Typing Animation"/>
 </a>
 
+ 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ahmedMadh&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -29,44 +30,23 @@
 <br>
 
 <div align="center">
+### `{ Tech Stack }`
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,tensorflow,pytorch,arduino&theme=dark&perline=6" />
+<br/><br/>
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=38bdf8)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=38bdf8)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=38bdf8)&nbsp;
+![ESP32](https://img.shields.io/badge/ESP32-0f172a?style=for-the-badge&logo=espressif&logoColor=38bdf8)&nbsp;
+![TinyML](https://img.shields.io/badge/TinyML-0f172a?style=for-the-badge&logo=tensorflow&logoColor=38bdf8)
+</div>
 
-<h3>Tech Stack</h3>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,git" alt="Languages and Tools"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI Frameworks"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python"/>
-      <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=38bdf8" alt="C++"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=38bdf8" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=38bdf8" alt="Pandas"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--Learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=38bdf8" alt="Scikit-learn"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=ff9f43" alt="TensorFlow"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch%20%28Learning%29-0f172a?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" alt="PyTorch"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/ESP32%20%7C%20Arduino-0f172a?style=for-the-badge&logo=arduino&logoColor=00979d" alt="ESP32 and Arduino"/>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+### `{ Connect }`
+<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](YOUR_LINKEDIN_URL)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/ahmedMadh)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:YOUR_EMAIL)
 </div>
 
 <br>
