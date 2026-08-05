@@ -87,11 +87,6 @@
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170" alt="Contribution Streak"/>
 
 </div>
-<br><br>
-
-<em>“Intelligence at the edge. Impact in the real world.”</em>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
