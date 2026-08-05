@@ -18,6 +18,7 @@
 <br>
 <div align="center">
 <h2>⚡ Tech Stack</h2>
+<br>
 <img src="https://skillicons.dev/icons?i=python,cpp,git,tensorflow,pytorch,arduino&theme=dark&perline=6" />
 <br/><br/>
 <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=38bdf8"/>&nbsp;
