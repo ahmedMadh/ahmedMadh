@@ -7,6 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=ahmedMadh&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 <br>
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=sam-astro&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=sam-astro&theme=github_dark&layout=compact" />
+</a>
 <div align="center">
 <h3>About Me</h3>
 <p>
